@@ -33,7 +33,7 @@ class Game:
 
                 if self.level.is_active:
                     self.level.run(dt)
-                    self.menu.start_anim(dt)
+                    # self.menu.start_anim(dt)
                 else:
                     self.menu.update_score(self.level.score.score)
                     self.menu.lose_anim(dt)
