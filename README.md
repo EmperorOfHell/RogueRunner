@@ -14,8 +14,25 @@ The game has a scoring system: 1 point will be awarded for each successfully pas
 ## Tools used on the developing stage:
 - Python as an object-oriented programming language
 - Photoshop
-##
+
+## UML Diagrams
+
+### Class Diagram
+![Class Diagram](https://github.com/EmperorOfHell/RogueRunner/blob/master/README%20pictures/UML/UML%20class.png?raw=true)
+### Activity Diagram
+![Activity Diagram](https://github.com/EmperorOfHell/RogueRunner/blob/master/README%20pictures/UML/Activity%20diagram.png?raw=true)
+
+## Screenshots
+
+### Starting Menu
+![starting menu](https://github.com/EmperorOfHell/RogueRunner/blob/master/README%20pictures/Screenshots/0.png?raw=true)
+### In-game screen
+![in-game screen](https://github.com/EmperorOfHell/RogueRunner/blob/master/README%20pictures/Screenshots/1.png?raw=true)
+### Ending screen
+![ending screen](https://github.com/EmperorOfHell/RogueRunner/blob/master/README%20pictures/Screenshots/2.png?raw=true)
+
 ## Graphic Source
+
 - [Monster Models](https://luizmelo.itch.io/monsters-creatures-fantasy)
 - [Enviroment & Character](https://brullov.itch.io/oak-woods)
 
